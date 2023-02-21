@@ -1,0 +1,61 @@
+Please fix these problems before submitting
+
+# problem at df6 = pd.read_excel('send_fail_message_workshop1.xlsx')
+Chi Hou Si Tou               2
+Advitiya Dhakharia           2
+XUAN Deshu                   2
+GEYUXI                       2
+Xiao Tianqing                2
+Mariia Yakusheva             2
+Zhou Ming                    2
+LIU Shu                      2
+ZHOU Suyi                    2
+mai jin                      2
+Ng Kwan Ting                 2
+Wang Ngai Lam                2
+Tsang Hiu Ying Jacqueline    2
+ZHANG Lihui                  2
+FUZIXIANG                    2
+Altana Temutsilekhu          2
+Jan Michalec                 2
+Amandine Thony               2
+TANG Xinran                  2
+YUANYUAN LIU                 2
+wang shiyi                   2
+Zhang Shuqi                  2
+MAHMUD JAWAD                 2
+
+# problem at df7 = pd.read_excel('send_fail_message_workshop1.xlsx')
+Chi Hou Si Tou               2
+Chi Hou Si Tou               2
+Advitiya Dhakharia           2
+XUAN Deshu                   2
+GEYUXI                       2
+Xiao Tianqing                2
+Mariia Yakusheva             2
+Zhou Ming                    2
+LIU Shu                      2
+ZHOU Suyi                    2
+mai jin                      2
+Ng Kwan Ting                 2
+Wang Ngai Lam                2
+Tsang Hiu Ying Jacqueline    2
+ZHANG Lihui                  2
+FUZIXIANG                    2
+Altana Temutsilekhu          2
+Jan Michalec                 2
+Amandine Thony               2
+TANG Xinran                  2
+YUANYUAN LIU                 2
+wang shiyi                   2
+Zhang Shuqi                  2
+MAHMUD JAWAD                 2
+
+# problem df8 = pd.read_excel('send_fail_message_booth1.xlsx')
+CHONG HUI YI                 3
+Yeh, Chih-Yu                 2
+Liu Qing                     2
+
+# problem df9 = pd.read_excel('send_fail_message_booth2.xlsx')
+CHONG HUI YI                 3
+Yeh, Chih-Yu                 2
